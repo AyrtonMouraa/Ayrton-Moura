@@ -14,3 +14,6 @@ I am passionate about solving Cyber Security and learning. Always open to new ch
 -  🌎 From PE Pernambuco my Country
 -  👨‍🎓  Finishing College in Computer Networks 
 -  🖥️ Pentest 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonCyberSec&show_icons=true&theme=radical)
+
