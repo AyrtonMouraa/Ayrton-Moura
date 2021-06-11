@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**AyrtonCyberSec/AyrtonCyberSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ayrton Moura, I'm from Brazil 🇧🇷. I'm  A Computer Networking Technician, that has been working as an intern in IT support since January 2021.
 
-Here are some ideas to get you started:
+I am passionate about solving Cyber Security and learning. Always open to new challenges and ready to face changes. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+###   "Acredito verdadeiramente que para se defender é preciso conhecer o inimigo e as ameaças que nos cercam. Aqui eu compartilho tudo que aprendo no campo de batalha." 🔥
+ 
+
+-  🌎 From PE Pernambuco my Country
+-  👨‍🎓  Finishing College in Computer Networks 
+-  🖥️ Pentest 
