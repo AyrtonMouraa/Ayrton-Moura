@@ -17,8 +17,11 @@ I am passionate about solving Cyber Security and learning. Always open to new ch
 
 ## Conect with me:
 <a href="https://www.linkedin.com/in/ayrton-moura-61b15a1a5/" target="_blank">
- <img align="center" alt="Ayron-linkedin" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+ <img align="center" alt="Ayron-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
  </a>
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonCyberSec&show_icons=true&theme=radical)
 
