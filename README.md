@@ -15,7 +15,7 @@ I am passionate about solving Cyber Security and learning. Always open to new ch
 -  👨‍🎓  Finishing College in Computer Networks 
 -  🖥️ Pentest 
 
-## Conect with me:
+## Conect With Me:
 
 
 <a href="https://www.linkedin.com/in/ayrton-moura-61b15a1a5/" target="_blank">
