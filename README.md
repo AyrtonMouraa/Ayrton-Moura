@@ -27,8 +27,4 @@ I am passionate about solving Cyber Security and learning. Always open to new ch
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyrtonCyberSec&show_icons=true&theme=radical)
 
- - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: platane
-          svg_out_path: dist/github-contribution-grid-snake.svg
+
