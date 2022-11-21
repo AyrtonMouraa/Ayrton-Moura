@@ -2,7 +2,7 @@
 
  **Welcome to my profile 👋**
 
-My name is Ayrton Moura, I'm from Brazil :brazil:. Atualmente inicei meus estudos em desenvolvimento de WEB sites (Front-end). Estou em busca de me tornar um profissional qualificado na aréa.
+My name is Ayrton Moura, I'm from Brazil :brazil:. Atualmente inicei meus estudos em DevOps. Estou em busca de me tornar um profissional qualificado na aréa.
 
 
 -  🌎 Recife-PE
