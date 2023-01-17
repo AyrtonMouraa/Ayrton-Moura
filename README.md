@@ -7,7 +7,7 @@ My name is Ayrton Moura, I'm from Brazil :brazil:. Atualmente inicei meus estudo
 
 -  🌎 Recife-PE
 -  👨‍🎓  Graduated in computer networks
--  🖥️ DevOps / CyberOps Associate. 
+-  🖥️ DevOps 
 
 ## Conect With Me:
 
