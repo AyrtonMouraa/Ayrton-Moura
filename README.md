@@ -1,15 +1,14 @@
 # Ayrton Moura 🖥️
 
- **Welcome to my profile 👋**
+ **Bem-vindo ao meu perfil 👋**
 
-My name is Ayrton Moura, I'm from Brazil :brazil:. Atualmente inicei meus estudos em DevOps. Estou em busca de me tornar um profissional qualificado na aréa.
+Olá, Eu me chamo Ayrton e sou estudante de engenharia de dados. Estou em busca de me tornar um profissional qualificado na aréa.
 
+-  👨‍🎓  Graduado em redes de computadores.
+-  🖥️ Atualmente estou desenvolvendo novos conhecimentos em engenharia de dados.
+-  ⚡ Que tal dar uma olhada no meu portfólio? Lá você verá um pouco mais sobre o meu trabalho! (Repositório).
 
--  🌎 Recife-PE
--  👨‍🎓  Graduated in computer networks
--  🖥️ DevOps 
-
-## Conect With Me:
+## Conecte-se comigo:
 
 
 <a href="https://www.linkedin.com/in/ayrton-moura-61b15a1a5/" target="_blank">
