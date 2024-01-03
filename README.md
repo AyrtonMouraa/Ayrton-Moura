@@ -14,7 +14,9 @@ Olá, Eu me chamo Ayrton e sou estudante de engenharia de dados. Estou em busca 
 <a href="https://www.linkedin.com/in/ayrton-moura-61b15a1a5/" target="_blank">
  <img align="center" alt="Ayron-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
  </a>
-
+<a href="https://www.linkedin.com/in/ayrton-moura-61b15a1a5/" target="_blank">
+ <img align="center" alt="Ayron-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+ </a>
 
 ## My Skills
 
